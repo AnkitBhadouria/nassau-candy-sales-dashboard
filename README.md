@@ -1,9 +1,9 @@
-# 🍬 Nassau Candy Sales Dashboard (Power BI)
+#Nassau Candy Sales Dashboard (Power BI)
 
-## 📌 Project Overview
+##Project Overview
 An interactive **Power BI dashboard** developed to analyze Nassau Candy sales performance and support business decision-making through visual analytics.
 
-## 🎯 Business Objective
+## Business Objective
 This dashboard enables stakeholders to:
 - Monitor sales performance
 - Identify top-performing products
@@ -13,7 +13,7 @@ This dashboard enables stakeholders to:
 
 ---
 
-## 📊 Dashboard Features
+## Dashboard Features
 - Executive KPI Dashboard
 - Sales Trend Analysis
 - Product Performance
@@ -24,7 +24,7 @@ This dashboard enables stakeholders to:
 
 ---
 
-## 📈 Key KPIs
+## Key KPIs
 - Total Sales
 - Total Orders
 - Average Order Value
@@ -34,7 +34,7 @@ This dashboard enables stakeholders to:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - Power BI Desktop
 - Power Query
 - DAX
@@ -43,7 +43,7 @@ This dashboard enables stakeholders to:
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```text
 nassau-candy-sales-dashboard/
@@ -57,7 +57,7 @@ nassau-candy-sales-dashboard/
 └── .gitignore
 ```
 
-## 🚀 Skills Demonstrated
+## Skills Demonstrated
 - Data Cleaning
 - Data Transformation
 - Data Modeling
@@ -70,7 +70,7 @@ nassau-candy-sales-dashboard/
 ## 📷 Dashboard Preview
 > Add screenshots inside the **Dashboard Screenshots** folder and reference them here.
 
-## 👨‍💻 Author
+## Author
 **Ankit Bhadouria**
 
 MBA – Marketing & Business Analytics
