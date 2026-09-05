@@ -66,6 +66,7 @@ Skills Demonstrated
 - Dashboard Design
 - Business Intelligence
 - Data Visualization
+- API
 
 Dashboard Preview
 > Add screenshots inside the **Dashboard Screenshots** folder and reference them here.
